@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE resources [
+    <!ENTITY % ents SYSTEM "../../res/raw/entities.ent">
+    %ents;
+    ]>
+
+<resources>
+    <string name="app_name">OnlyUs</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string-array name="ou_free_dares">
+        <item>\&playingPartnerPlaceholder;, Tickle \&baePartnerPlaceholder; until \&baePartnerPlaceholder; laughs.</item>
+        <item>\&playingPartnerPlaceholder;, Ask \&baePartnerPlaceholder; where \&baePartnerPlaceholder; wants a kiss.</item>
+        <item>\&baePartnerPlaceholder; close your eyes. \&playingPartnerPlaceholder; lick \&baePartnerPlaceholder;'s navel.</item>
+    </string-array>
+
+
+
+</resources>
